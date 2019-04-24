@@ -1,0 +1,9 @@
+.login-page,
+.register-page {
+  background-color: #fff;
+}
+
+.login-box-body,
+.register-box-body {
+  padding: 5px;
+}
